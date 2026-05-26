@@ -2,6 +2,8 @@
 
 A complete, self-contained skill training website that teaches everything about Claude AI — from beginner to expert.
 
+Try it out - https://cksharma11.github.io/claude-academy/
+
 ## 📚 What's Included
 
 **12 Chapters** covering:
