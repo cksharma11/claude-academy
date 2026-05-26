@@ -2,15 +2,6 @@
 
 A complete, self-contained skill training website that teaches everything about Claude AI — from beginner to expert.
 
-## 🚀 Deploy to GitHub Pages
-
-1. Create a new GitHub repository (e.g. `claude-academy`)
-2. Upload `index.html` to the root of the repo
-3. Go to **Settings → Pages → Source** and select **main branch / root**
-4. Your site is live at `https://yourusername.github.io/claude-academy`
-
-That's it — single file, zero dependencies, zero build step.
-
 ## 📚 What's Included
 
 **12 Chapters** covering:
